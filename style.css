@@ -1,0 +1,38 @@
+#text {
+  margin-left: auto;
+  margin-right: auto;
+  width: 850px;
+  height: 400px;
+  margin-bottom: 1%;
+  font-family: 'Lato', sans-serif;
+}
+
+.box {
+  width: 50px;
+  height: 50px;
+  background-color: rgb(51, 51, 51);
+  border-radius: 4px;
+  box-shadow: rgb(51, 51, 51) 2px 2px 5px;
+  font-family: 'Lato', sans-serif;
+}
+
+.central {
+  position: relative;
+  top: 10px;
+  left: 9px;
+  color: aliceblue;
+  font-size: 24px;
+  cursor: default;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  height: 54px;
+  width: 850px;
+}
+
+.highlight {
+  background-color: rgb(253, 134, 104);
+}
