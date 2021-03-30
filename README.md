@@ -1,2 +1,2 @@
 # Virtual Keyboard
-  https://htmlprogrammist.github.io/virtual-keyboard/
+https://htmlprogrammist.github.io/keyboard-js/
